@@ -4,7 +4,7 @@
   "description": "Dodatek do Firefoxa pomagajacy szybko znalezc mieszkanie na wynajem.",
   "main": "index.js",
   "scripts": {
-    "package": "rm -f ext.zip && zip -r ext.zip icons manifest.jsonindex.js"
+    "package": "rm -f ext.zip && zip -r ext.zip icons manifest.json index.js"
   },
   "repository": {
     "type": "git",
