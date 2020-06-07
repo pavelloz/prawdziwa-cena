@@ -4,7 +4,7 @@ Dodatek do Firefoxa pomagajacy szybko znalezc mieszkanie na wynajem.
 
 Obok ceny wynajmu pokazuje cene czynszu (o ile zostala wpisana przez wystawiajacego ogloszenie) na `otodom.pl/wynajem`.
 
-![przed-po](screenshots/przed-po.jpg)
+![przed-po](screenshots/przed-po.jpg?raw=true "Przed vs Po")
 
 ## Daczego?
 
