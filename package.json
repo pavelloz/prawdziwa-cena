@@ -1,0 +1,20 @@
+{
+  "name": "prawdziwa-cena",
+  "version": "1.0.0",
+  "description": "Dodatek do Firefoxa pomagajacy szybko znalezc mieszkanie na wynajem.",
+  "main": "index.js",
+  "scripts": {
+    "package": "rm -f ext.zip && zip -r ext.zip icons manifest.jsonindex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelloz/prawdziwa-cena.git"
+  },
+  "keywords": [],
+  "author": "Paweł Kowalski <pavelloz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavelloz/prawdziwa-cena/issues"
+  },
+  "homepage": "https://github.com/pavelloz/prawdziwa-cena#readme"
+}
